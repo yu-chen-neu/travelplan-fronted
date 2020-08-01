@@ -1,0 +1,12 @@
+.sight{
+    position: relative;
+    left: 400px;
+    top:50px;
+    margin: 0;
+}
+.comment{
+    position: relative;
+    left:100px;
+    top:100px;
+    margin: 10px;
+}
